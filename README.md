@@ -1,6 +1,22 @@
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
+![Screenshot_1713728081](https://github.com/mackah2109/Android_Tennis_broadcast_app/assets/104051228/51b82e24-9233-4228-89eb-2decd6256fa0)
+
+![Screenshot_1713728088](https://github.com/mackah2109/Android_Tennis_broadcast_app/assets/104051228/65dd1011-69ac-49ea-aeb1-6aa08db2dadb)
+
+![Screenshot_1713728094](https://github.com/mackah2109/Android_Tennis_broadcast_app/assets/104051228/b1a13f58-d487-4d64-9a7c-59656ac67043)
+![Screenshot_1713728099](https://github.com/mackah2109/Android_Tennis_broadcast_app/assets/104051228/6b32f162-cf64-4a4b-98fb-50966be5f047)
+![Screenshot_1713728102](https://github.com/mackah2109/Android_Tennis_broadcast_app/assets/104051228/6ce45dca-760c-4d9f-9ac1-c96343a3cbac)
+
+
+![Screenshot_1713728132](https://github.com/mackah2109/Android_Tennis_broadcast_app/assets/104051228/c449d8d5-0a00-4300-80d6-3e717f80e938)
+![Screenshot_1713728158](https://github.com/mackah2109/Android_Tennis_broadcast_app/assets/104051228/80532bbe-9e62-4e4b-889e-1582fd6539af)
+![Screenshot_1713728176](https://github.com/mackah2109/Android_Tennis_broadcast_app/assets/104051228/032acc33-e962-4b80-9c4e-aeb42ca3416a)
+![Screenshot_1713728192](https://github.com/mackah2109/Android_Tennis_broadcast_app/assets/104051228/0a799f94-d32e-431b-9165-f9bd06347fea)
+
+![Screenshot_1713728213](https://github.com/mackah2109/Android_Tennis_broadcast_app/assets/104051228/1714c36f-56d7-4ff6-a71d-bc5c72c896bb)
+![Screenshot_1713728216](https://github.com/mackah2109/Android_Tennis_broadcast_app/assets/104051228/cc10c245-0090-4f2a-9493-0eda3ec55924)
 
 >**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
 
